@@ -1,4 +1,4 @@
 # CompareCheck
 Do cross-branch compares work properly?
 
-This is the MASTER branch.
+This is the CompareBranchOne branch.
