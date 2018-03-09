@@ -46,6 +46,8 @@ I believe our engineers are aware of this confusion, and they might consider exp
 Hope this helps clear things up and please let us know if you have any other questions.
 
 
-## Posted to https://github.community as a feature request.
+## Posted to https://github.community as a feature request here:
+
+https://github.community/t5/How-to-use-Git-and-GitHub/Branch-to-Branch-Compare-Compares-to-Master-Instead/m-p/4677#M1527
 
 
